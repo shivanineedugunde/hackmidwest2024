@@ -15,19 +15,25 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 *List the full names,  email address & Github username of your teammates*
 
 1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
-3.
-4.
+2. Shivani Needugunde || shivanineedugunde@gmail.com || shivanineedugunde
+3. Manisha Mallaboina || ishayadav.m23@gmail.com
+4. nagarjuna dorthaala || dorthalanagarjuna.usa@gmail.com
 5.
+6.
+7.
 
 <br /><br />
 
 
 ## What is the name of your App?
-
+STrade
 <br /><br />
 ## What does your app do?
 *Describe in a paragraph or so*
+This platform connects the students in need of items to those students that possess the items but do not need them. 
+The students who want to sell or donate their items can post the product details on the application along with contact information. 
+The students who want to get items can browse through the available products and choose the required one and use the contact information provided by the owner to make a deal with them.
+This application can be implemented in such a way that it is used only among the people belonging to a specific college to ensure convenient trading![image](https://github.com/user-attachments/assets/0685ada8-13a5-4f36-810f-f11f343d6633)
 
 <br /><br />
 
